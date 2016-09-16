@@ -1,7 +1,7 @@
 {
   "name": "vue-touch-appeared-radio-bug",
   "version": "1.0.0",
-  "description": "Reproduction of vue-touch bug that touch is handled by radio appeared by same touch event.",
+  "description": "Reproduction of vue-touch bug that tap is unexpectedly handled by radio button just appeared by same tap event.",
   "author": "Yuya Tanaka <yuya.presto@gmail.com>",
   "private": true,
   "scripts": {

@@ -2,7 +2,7 @@
 
 ![screencast.gif](screencast.gif)
 
-> Reproduction of vue-touch bug that touch is handled by radio appeared by same touch event.
+> Reproduction of vue-touch bug that tap is unexpectedly handled by radio button just appeared by same tap event.
 
 ## Build Setup
 
